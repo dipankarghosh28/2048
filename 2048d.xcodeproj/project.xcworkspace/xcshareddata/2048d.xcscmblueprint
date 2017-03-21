@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2CA26F07AC65E8B443BADBB4C424832B1F7477D2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DD736A1CD4922467F8632AF4F6725199FC6D56F1" : 9223372036854775807,
+    "2CA26F07AC65E8B443BADBB4C424832B1F7477D2" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "04AE05EC-ED02-4939-B866-6FA6D3898388",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DD736A1CD4922467F8632AF4F6725199FC6D56F1" : "",
+    "2CA26F07AC65E8B443BADBB4C424832B1F7477D2" : "2048d.spritebuilder\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "2048d",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "2048d.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/dghosh1\/p02-ghosh.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2CA26F07AC65E8B443BADBB4C424832B1F7477D2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/dghosh1\/p02-dghosh.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DD736A1CD4922467F8632AF4F6725199FC6D56F1"
+    }
+  ]
+}
